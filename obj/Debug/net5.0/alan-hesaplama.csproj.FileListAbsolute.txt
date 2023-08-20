@@ -1,0 +1,16 @@
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\bin\Debug\net5.0\alan-hesaplama.exe
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\bin\Debug\net5.0\alan-hesaplama.deps.json
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\bin\Debug\net5.0\alan-hesaplama.runtimeconfig.json
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\bin\Debug\net5.0\alan-hesaplama.runtimeconfig.dev.json
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\bin\Debug\net5.0\alan-hesaplama.dll
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\bin\Debug\net5.0\alan-hesaplama.pdb
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\obj\Debug\net5.0\alan-hesaplama.csproj.AssemblyReference.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\obj\Debug\net5.0\alan-hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\obj\Debug\net5.0\alan-hesaplama.AssemblyInfoInputs.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\obj\Debug\net5.0\alan-hesaplama.AssemblyInfo.cs
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\obj\Debug\net5.0\alan-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\obj\Debug\net5.0\alan-hesaplama.dll
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\obj\Debug\net5.0\refint\alan-hesaplama.dll
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\obj\Debug\net5.0\alan-hesaplama.pdb
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\obj\Debug\net5.0\alan-hesaplama.genruntimeconfig.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\alan-hesaplama\obj\Debug\net5.0\ref\alan-hesaplama.dll
